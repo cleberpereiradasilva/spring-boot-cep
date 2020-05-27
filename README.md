@@ -27,7 +27,7 @@
 		"ibge": ""
 	}    
 
-## Rota [POS]
+## Rota [POST]
 
 - [POST] `http://{host-url}/api/cep`
 
