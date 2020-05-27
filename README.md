@@ -11,13 +11,14 @@
     Um and-point utiliznado o verbo **POST**
      - Receber os dados de um endereço e salvar no banco de dados MondoDB
 
-
 ---
 
 # Rotas
 
     [GET] http://{host-url}/api/cep/00000000
-    ## Resposta:
+
+### Resposta:
+
     ```
     	{
     		"id": "",
@@ -33,7 +34,9 @@
     ```
 
     [POST] http://{host-url}/api/cep
-    ## Body
+
+### Body
+
     ```
     {
     	"cep": "",
@@ -46,7 +49,9 @@
     	"ibge": ""
     }
     ```
-    ## Resposta
+
+### Resposta
+
     ```
      	{
           "id": "",
@@ -65,9 +70,10 @@
 
 # Requisitos
 
-[ ]- Necessário ser em Java 8.
+[ ]-Necessário ser em Java 8.
 
-- Spring
+[] Spring
+
 - Usar DTO
 - Usar collections
 - Lambdas
