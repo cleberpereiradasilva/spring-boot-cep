@@ -10,11 +10,11 @@
 
 ---
 
-## Rotas
+## Rota [GET]
 
 - [GET] `http://{host-url}/api/cep/00000000`
 
-### Resposta:    
+#### Resposta:    
 	{
 		"id": "",
 		"cep": "",
@@ -27,6 +27,7 @@
 		"ibge": ""
 	}    
 
+## Rota [POS]
 
 - [POST] `http://{host-url}/api/cep`
 
