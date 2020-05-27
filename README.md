@@ -65,7 +65,7 @@
 - [x] Spring Boot;
 - [x] Mongo;
 - [x] Lombok;
-- [ ] Usar DTO;
+- [x] Usar DTO;
 - [ ] Usar collections;
 - [ ] Lambdas;
 - [ ] Dividir em service;
