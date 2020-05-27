@@ -76,16 +76,16 @@
 
 - [ ]Lombok;
 
--[ ]Usar DTO;
+- [ ]Usar DTO;
 
--[ ] Usar collections;
+- [ ]Usar collections;
 
--[ ] Lambdas;
+- [ ]Lambdas;
 
--[ ] Dividir em service;
+- [ ]Dividir em service;
 
--[ ] Swagger;
+- [ ]Swagger;
 
--[ ] Actuator;
+- [ ]Actuator;
 
--[ ] Testes do service, dos endpoints;
+- [ ]Testes do service, dos endpoints;
