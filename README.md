@@ -69,23 +69,13 @@
 # Requisitos
 
 - [ ] Necessário ser em Java 8;
-
 - [ ] Spring;
-
 - [ ] Mongo;
-
 - [ ] Lombok;
-
 - [ ] Usar DTO;
-
 - [ ] Usar collections;
-
 - [ ] Lambdas;
-
 - [ ] Dividir em service;
-
 - [ ] Swagger;
-
 - [ ] Actuator;
-
 - [ ] Testes do service, dos endpoints;
