@@ -68,13 +68,13 @@
 
 # Requisitos
 
--[ ] Necessário ser em Java 8;
+- [ ] Necessário ser em Java 8;
 
--[ ] Spring;
+- [ ] Spring;
 
--[ ] Mongo;
+- [ ] Mongo;
 
--[ ] Lombok;
+- [ ] Lombok;
 
 -[ ] Usar DTO;
 
