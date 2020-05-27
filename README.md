@@ -1,12 +1,12 @@
 # Projeto para consultar endereço utilizando cep 
 
 ## Tarefa
-- Construir uma api com dois and-points:
-	- Um and-point utilizando o verbo **GET** 
+- Construir uma **api** com dois and-points:
+	- Um `and-point` utilizando o verbo **GET** 
 		- Obter o `dados` de um endereço através do `cep` 
-		- Caso não tenha os dados no banco de dados efetuar a busca em `www.viacep.com.br`
-	- Um and-point utiliznado o verbo **POST** 
-		- Receber os dados de um endereço e salvar no banco de dados **MongoDB**
+		- Caso não tenha os dados no banco de dados efetuar a busca em **`www.viacep.com.br`**
+	- Um `and-point` utiliznado o verbo **POST** 
+		- Receber os `dados` de um endereço e salvar no banco de dados **MongoDB**
 
 ---
 
