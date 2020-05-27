@@ -10,7 +10,7 @@
 
 ---
 
-# Rotas
+## Rotas
 
 - [GET] `http://{host-url}/api/cep/00000000`
 
@@ -30,7 +30,7 @@
 
 - [POST] `http://{host-url}/api/cep`
 
-### Body
+#### Body
     {
     	"cep": "",
     	"logradouro": "",
@@ -43,7 +43,7 @@
     }
 
 
-### Resposta    
+#### Resposta    
 	{
 		"id": "",
 		"cep": "",
@@ -58,7 +58,7 @@
 
 ---
 
-# Requisitos
+## Requisitos
 
 - [ ] Necessário ser em Java 8;
 - [ ] Spring Boot;
