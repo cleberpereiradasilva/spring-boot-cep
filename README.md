@@ -12,29 +12,25 @@
 
 # Rotas
 
-    [GET] `http://{host-url}/api/cep/00000000`
+- [GET] `http://{host-url}/api/cep/00000000`
 
-### Resposta:
-<code>
-    
-    	{
-    		"id": "",
-    		"cep": "",
-    		"logradouro": "",
-    		"complemento": "",
-    		"bairro": "",
-    		"localidade": "",
-    		"uf": "",
-    		"unidade": "",
-    		"ibge": ""
-    	}    
-</code>
+### Resposta:    
+	{
+		"id": "",
+		"cep": "",
+		"logradouro": "",
+		"complemento": "",
+		"bairro": "",
+		"localidade": "",
+		"uf": "",
+		"unidade": "",
+		"ibge": ""
+	}    
 
-    [POST] `http://{host-url}/api/cep`
+
+- [POST] `http://{host-url}/api/cep`
 
 ### Body
-
-<pre>
     {
     	"cep": "",
     	"logradouro": "",
@@ -45,23 +41,20 @@
     	"unidade": "",
     	"ibge": ""
     }
-</pre>
 
-### Resposta
 
-    ```
-     	{
-          "id": "",
-          "cep": "",
-          "logradouro": "",
-          "complemento": "",
-          "bairro": "",
-          "localidade": "",
-          "uf": "",
-          "unidade": "",
-          "ibge": ""
-        }
-    ```
+### Resposta    
+	{
+		"id": "",
+		"cep": "",
+		"logradouro": "",
+		"complemento": "",
+		"bairro": "",
+		"localidade": "",
+		"uf": "",
+		"unidade": "",
+		"ibge": ""
+	}
 
 ---
 
