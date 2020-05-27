@@ -1,7 +1,7 @@
 # Projeto para consultar endereço utilizando cep 
 
 ## Tarefa
-- Criar uma api com dois and-points:
+- Construir uma api com dois and-points:
 	- Um and-point utilizando o verbo **GET** 
 		- Obter o `dados` de um endereço através do `cep` 
 		- Caso não tenha os dados no banco de dados efetuar a busca em `www.viacep.com.br`
