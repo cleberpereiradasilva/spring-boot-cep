@@ -61,10 +61,10 @@
 
 ## Requisitos
 
-- [ ] Necessário ser em Java 8;
-- [ ] Spring Boot;
-- [ ] Mongo;
-- [ ] Lombok;
+- [x] Necessário ser em Java 8;
+- [x] Spring Boot;
+- [x] Mongo;
+- [x] Lombok;
 - [ ] Usar DTO;
 - [ ] Usar collections;
 - [ ] Lambdas;

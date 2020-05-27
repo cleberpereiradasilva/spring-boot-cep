@@ -14,7 +14,7 @@ public class CepController {
 
     @GetMapping()
     public Cep getCep(){
-        return cepRepository.getByCep("01001-00");
+        return cepRepository.getByCep("01001-000");
     }
 
 
