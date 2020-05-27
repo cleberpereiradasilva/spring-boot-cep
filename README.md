@@ -12,11 +12,11 @@
 
 # Rotas
 
-    [GET] http://{host-url}/api/cep/00000000
+    [GET] `http://{host-url}/api/cep/00000000`
 
 ### Resposta:
-
-    ```
+<code>
+    
     	{
     		"id": "",
     		"cep": "",
@@ -27,14 +27,14 @@
     		"uf": "",
     		"unidade": "",
     		"ibge": ""
-    	}
-    ```
+    	}    
+</code>
 
-    [POST] http://{host-url}/api/cep
+    [POST] `http://{host-url}/api/cep`
 
 ### Body
 
-    ```
+<pre>
     {
     	"cep": "",
     	"logradouro": "",
@@ -45,7 +45,7 @@
     	"unidade": "",
     	"ibge": ""
     }
-    ```
+</pre>
 
 ### Resposta
 
