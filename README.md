@@ -1,4 +1,4 @@
-# Exemplo de projeto busca de cep (spring-boot-cep)
+# Projeto para consultar endereço utilizando cep (spring-boot-cep)
 
 # Tarefa
 
