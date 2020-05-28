@@ -61,14 +61,20 @@
 
 ## Requisitos
 
-- [ ] Necessário ser em Java 8;
-- [ ] Spring Boot;
-- [ ] Mongo;
-- [ ] Lombok;
-- [ ] Usar DTO;
+- [x] Necessário ser em Java 8;
+- [x] Spring Boot;
+- [x] Mongo;
+- [x] Lombok;
+- [x] Usar DTO;
 - [ ] Usar collections;
 - [ ] Lambdas;
 - [ ] Dividir em service;
 - [ ] Swagger;
 - [ ] Actuator;
 - [ ] Testes do service, dos endpoints;
+
+
+## Videos
+- [![Introdução - branch Video01](http://img.youtube.com/vi/3m78lzcQZ4Q/0.jpg)](https://www.youtube.com/watch?v=3m78lzcQZ4Q "Introdução - branch Video01")
+- [![Descrição e Setup do Projeto - branch Video02](http://img.youtube.com/vi/tzntjQZs9qQ/0.jpg)](https://www.youtube.com/watch?v=tzntjQZs9qQ "Descrição e Setup do Projeto - branch Video02")
+
