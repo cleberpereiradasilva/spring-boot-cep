@@ -73,8 +73,8 @@
 - [ ] Actuator;
 - [ ] Testes do service, dos endpoints;
 
+---
+## Youtube Play List
+[![Play List](http://img.youtube.com/vi/3m78lzcQZ4Q/0.jpg)](https://www.youtube.com/playlist?list=PL8Bwzyk4WxBPjpRle52S83UqfgNmxznhM)
 
-## Videos
-- [![Introdução - branch Video01](http://img.youtube.com/vi/3m78lzcQZ4Q/0.jpg)](https://www.youtube.com/watch?v=3m78lzcQZ4Q "Introdução - branch Video01")
-- [![Descrição e Setup do Projeto - branch Video02](http://img.youtube.com/vi/tzntjQZs9qQ/0.jpg)](https://www.youtube.com/watch?v=tzntjQZs9qQ "Descrição e Setup do Projeto - branch Video02")
 
