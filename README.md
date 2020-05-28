@@ -74,7 +74,7 @@
 - [ ] Testes do service, dos endpoints;
 
 ---
-## Youtube Play List
+## YouTube Play List
 [![Play List](http://img.youtube.com/vi/3m78lzcQZ4Q/0.jpg)](https://www.youtube.com/playlist?list=PL8Bwzyk4WxBPjpRle52S83UqfgNmxznhM)
 
 
