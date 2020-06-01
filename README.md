@@ -66,9 +66,9 @@
 - [x] Mongo;
 - [x] Lombok;
 - [x] Usar DTO;
+- [x] Swagger;
 - [ ] Usar collections;
 - [ ] Lambdas;
 - [ ] Dividir em service;
-- [ ] Swagger;
 - [ ] Actuator;
 - [ ] Testes do service, dos endpoints;
